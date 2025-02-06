@@ -18,3 +18,7 @@ Data Cleaning & Transformation
 
 # Dataset Source - 
 https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020/data
+
+The dataset includes IPL match details from 2008 to 2020.
+It contains information about matches, players, teams, venues, and performances.
+The data is useful for analyzing team performance, player stats, toss impact, and match outcomes.
