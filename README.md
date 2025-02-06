@@ -22,3 +22,9 @@ https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020/data
 The dataset includes IPL match details from 2008 to 2020.
 It contains information about matches, players, teams, venues, and performances.
 The data is useful for analyzing team performance, player stats, toss impact, and match outcomes.
+
+# Final Dashboard - 
+
+![Screenshot 2025-02-06 090932](https://github.com/user-attachments/assets/8b81a40e-4264-4fbd-89ff-23e241e3275b)
+
+
